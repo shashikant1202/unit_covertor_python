@@ -85,6 +85,6 @@ Understand how to build modular and menu-driven CLI applications.
 Practice real-life use cases with simple math conversions.
 
 🙋‍♂️ Author
-Shashi kant Singh
-Internship/Student Project – Python Programming
-GEC Lakhisarai
+-Shashi kant Singh
+-Internship/Student Project – Python Programming
+-GEC Lakhisarai
